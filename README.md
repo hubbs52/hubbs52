@@ -1,4 +1,13 @@
 ## Hi there 👋
+My name is Ryan, and I am new to the Github community.
+
+I am currently finishing a masters program in data analytics with an area of specialization in finance. Over the past few years, I have been developing my skills in SQL, R, SAS, Python, Alteryx, and various statistical and predictive modeling tools and techniques. 
+
+In addition, I am a project manager for a large healthcare organization. I currently specialize in robotic process automation projects for finance teams. However, my team is also involved in AI projects. 
+
+- 📫 How to reach me: https://www.linkedin.com/in/rhubble/
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: Even though I have Viking lineage, I am a huge Green Bay Packers fan. 
 
 <!--
 **hubbs52/hubbs52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
